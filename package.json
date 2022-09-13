@@ -4,7 +4,10 @@
   "author": "Point Network",
   "description": "Template example zapp - use as a scaffold to create more Zapps!",
   "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
     "@material-ui/icons": "^4.11.2",
+    "@mui/material": "^5.10.5",
     "@openzeppelin/contracts": "^4.4.2",
     "@openzeppelin/contracts-upgradeable": "^4.6.0",
     "@testing-library/jest-dom": "^5.11.4",
